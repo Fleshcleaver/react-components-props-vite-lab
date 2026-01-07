@@ -1,4 +1,5 @@
 import React from 'react';
+import Article from './Article'; 
 function ArticleList({ posts }) {
   return (
     <main style={{ 
@@ -17,4 +18,4 @@ function ArticleList({ posts }) {
     </main>
   );
 }
-export default App;
+export default ArticleList;

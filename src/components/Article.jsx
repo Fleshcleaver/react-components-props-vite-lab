@@ -43,4 +43,4 @@ function Article({ title, date = "January 1, 1970", preview, minutes }) {
     </article>
   );
 }
-export default App;
+export default Article;

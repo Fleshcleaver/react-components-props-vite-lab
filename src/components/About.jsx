@@ -24,4 +24,4 @@ function About({ image = "https://via.placeholder.com/215", about }) {
     </aside>
   );
 }
-export default App;
+export default About;
